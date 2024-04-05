@@ -1,6 +1,7 @@
 # Olá, Eu sou Aguinaldo! :dart:
 
-<img src="https://github.com/AguinaldoBorges/AguinaldoBorges/assets/74510307/c9d50825-4aef-411e-b327-062b914dabde" width="300px" align="right" >
+<img src="https://github.com/AguinaldoBorges/AguinaldoBorges/assets/74510307/c9d50825-4aef-411e-b327-062b914dabde" width="300px" align="right">
+<br/>
 
 
 Meu nome é Aguinaldo, um desenvolvedor fullstack formado em Análise e Desenvolvimento de Sistemas desde 2021. Com um ano de experiência como Back-end developer, minhas habilidades incluem Java, Python, HTML, CSS, JavaScript, React, Vue, Angular, Node.js, SQL, MySQL, PHP, VBA e mais. Participei do desenvolvimento de um CRM em Vue e diversas páginas de vendas. Além disso, tenho projetos pessoais em e estou aprimorando minhas habilidades na Cubos Academy. Estou animado para contribuir em projetos inovadores no desenvolvimento web.
