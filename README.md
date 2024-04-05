@@ -1,6 +1,5 @@
 # Olá, Eu sou Aguinaldo! :dart:
 
-<br/>
 <img src="https://github.com/AguinaldoBorges/AguinaldoBorges/assets/74510307/c9d50825-4aef-411e-b327-062b914dabde" width="300px" align="right">
 
 
