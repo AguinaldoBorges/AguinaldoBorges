@@ -8,7 +8,7 @@ Meu nome é Aguinaldo, um desenvolvedor fullstack formado em Análise e Desenvol
 
 ### Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,vue,angular,nodejs,mysql,postgres,python,php,wordpress,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,html,css,bootstrap,react,vue,angular,nodejs,mysql,postgres,python,php,wordpress,docker)](https://skillicons.dev)
 
 
 ![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=AguinaldoBorges&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
