@@ -37,9 +37,9 @@ Minha formação em **Análise e Desenvolvimento de Sistemas (Estácio)** e o **
 
 ## 🌟 Projetos em Destaque
 
-- **Plataforma CSDBR:** Features fintech com Kafka + Cassandra.  
-- **Agora Converte:** Site e landing pages otimizadas.  
-- **Portal de Notícias:** Aplicação full-stack com front responsivo e back robusto.  
+- **Fintech Micro-Exchange** – Features fintech Full-stack 100% em Clojure/ClojureScript – Kafka Streams + Cassandra + Re-frame + Tailwind
+- **API Pagamentos - Backend** – API RESTful com Node.js + Express + PostgreSQL + Body-parser + CORS
+- **API Cubos Bank** - Backend – Node.js + Express + PostgreSQL + Body-parser + CORS - API RESTful - Validação de dados + interações complexas entre recursos 
 
 ---
 
