@@ -21,7 +21,7 @@ Minha formação em **Análise e Desenvolvimento de Sistemas (Estácio)** e o **
 - **Linguagens e Frameworks:** Clojure, ClojureScript, JavaScript, Node.js, SQL, React, Vue, Angular, Python, Java, C#  
 - **Big Data & Infra:** Kafka, Cassandra, Docker, WSL, Git/GitLab CI/CD  
 - **Ferramentas:** VS Code, Postman, Jira, Trello, Swagger, JWT  
-- **Idiomas:** Inglês Técnico (em progresso)
+- **Idiomas:** Inglês Técnico
 
 [![My Skills](https://skillicons.dev/icons?i=clojure,js,react,vue,angular,nodejs,python,java,cs,docker,git,postgres,mysql)](https://skillicons.dev)
 
