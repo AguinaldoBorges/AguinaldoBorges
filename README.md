@@ -48,4 +48,4 @@ Minha formação em **Análise e Desenvolvimento de Sistemas (Estácio)** e o **
 
 ---
 
-![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=AguinaldoBorges&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+
