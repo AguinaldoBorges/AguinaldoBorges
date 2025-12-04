@@ -38,8 +38,10 @@ Minha formação em **Análise e Desenvolvimento de Sistemas (Estácio)** e o **
 ## 🌟 Projetos em Destaque
 
 - **Fintech Micro-Exchange** – Features fintech Full-stack 100% em Clojure/ClojureScript – Kafka Streams + Cassandra + Re-frame + Tailwind
-- **API Pagamentos - Backend** – API RESTful com Node.js + Express + PostgreSQL + Body-parser + CORS
-- **API Cubos Bank** - Backend – Node.js + Express + PostgreSQL + Body-parser + CORS - API RESTful - Validação de dados + interações complexas entre recursos 
+- **Carteira Digital Serverless (AWS)** – Fintech 100% serverless com Lambda, API Gateway, DynamoDB, SNS e SQS. Endpoints de depósito, saque e consulta de saldo, com alertas automáticos via SNS.
+- **Fintech - API de Transações (Python + FastAPI)** – API RESTful de alta performance para depósitos e saques. Desenvolvida com FastAPI, SQLModel e SQLite, com tipagem estática, validação rigorosa de payloads, cálculo automático de saldo e documentação interativa (Swagger UI). Deploy simplificado via Docker. 
+- **API Cubos Bank** - Backend – Node.js + Express + PostgreSQL + Body-parser + CORS - API RESTful - Validação de dados + interações complexas entre recursos
+
 
 ---
 
