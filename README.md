@@ -11,7 +11,7 @@ Minha formação em **Análise e Desenvolvimento de Sistemas (Estácio)** e o **
 
 - **Projetos Full-Stack:** Features completas em fintechs, APIs RESTful robustas e aplicações web dinâmicas.  
 - **Big Data & Infra:** Integrações com **Kafka** para eventos e **Cassandra** para dados em larga escala.  
-- **Front-end Moderno:** Interfaces responsivas com **ClojureScript, React, Vue e Angular**, sempre focando na experiência do usuário.  
+- **Front-end Moderno:** Interfaces responsivas com **ClojureScript, Next.js, React, Vue e Angular**, sempre focando na experiência do usuário.  
 - **Back-end Poderoso:** APIs seguras e eficientes em **Clojure, Node.js e SQL**, com pipelines de CI/CD otimizados.
 
 ---
