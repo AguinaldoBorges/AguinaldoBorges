@@ -1,6 +1,6 @@
 # Olá, eu sou Aguinaldo! :dart:
 
-<img src="https://github.com/AguinaldoBorges/AguinaldoBorges/assets/74510307/c9d50825-4aef-411e-b327-062b914dabde" width="300px" align="right">
+<img src="./aguinaldo-3.jpeg" width="300px" align="right">
 
 Sou **Engenheiro de Software Full-Stack Júnior** com mais de 3 anos de experiência em **plataformas financeiras escaláveis**. Tenho expertise em **Clojure/ClojureScript, Kafka e Cassandra**, entregando soluções end-to-end que otimizam investimentos e regras de negócio.  
 Minha formação em **Análise e Desenvolvimento de Sistemas (Estácio)** e o **Bootcamp Full-Stack (Cubos Academy)** me proporcionam uma base sólida para enfrentar desafios complexos no mundo da tecnologia.
