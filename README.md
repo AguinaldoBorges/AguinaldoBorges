@@ -18,7 +18,7 @@ Minha formação em **Análise e Desenvolvimento de Sistemas (Estácio)** e o **
 
 ## 🚀 Habilidades
 
-- **Linguagens e Frameworks:** Clojure, ClojureScript, JavaScript, Node.js, SQL, React, Vue, Angular, Python, Java, C#  
+- **Linguagens e Frameworks:** Clojure, ClojureScript, JavaScript, Next.js, Node.js, SQL, React, Vue, Angular, Python, Java, C#  
 - **Big Data & Infra:** Kafka, Cassandra, Docker, WSL, Git/GitLab CI/CD  
 - **Ferramentas:** VS Code, Postman, Jira, Trello, Swagger, JWT  
 - **Idiomas:** Inglês Técnico
