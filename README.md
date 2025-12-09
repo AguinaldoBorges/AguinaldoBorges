@@ -42,6 +42,7 @@ Minha formação em **Análise e Desenvolvimento de Sistemas (Estácio)** e o **
 - **Fintech - API de Transações (Python + FastAPI)** – API RESTful de alta performance para depósitos e saques. Desenvolvida com FastAPI, SQLModel e SQLite, com tipagem estática, validação rigorosa de payloads, cálculo automático de saldo e documentação interativa (Swagger UI). Deploy simplificado via Docker.
 - **Banco Digital (Next.js + SQLite)** – App full-stack com depósito, saque, saldo e histórico. Feito com Next.js, TypeScript, TailwindCSS e SQLite, unindo frontend e API em um único projeto.
 - **API Cubos Bank** - Backend – Node.js + Express + PostgreSQL + Body-parser + CORS - API RESTful - Validação de dados + interações complexas entre recursos
+- **Csharp .NET Bank (ASP.NET MVC + C#)** – Mini-fintech construída com ASP.NET Core MVC (.NET 10), C# e TailwindCSS via CDN. Interface moderna com fluxo completo de saldo, depósito e saque, arquitetura MVC organizada com camada de serviços e roteamento otimizado. Usando fundamentos sólidos do ecossistema .NET aplicado ao mundo financeiro.
 
 
 ---
