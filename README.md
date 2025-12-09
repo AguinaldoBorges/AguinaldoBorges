@@ -23,7 +23,7 @@ Minha formação em **Análise e Desenvolvimento de Sistemas (Estácio)** e o **
 - **Ferramentas:** VS Code, Postman, Jira, Trello, Swagger, JWT  
 - **Idiomas:** Inglês Técnico
 
-[![My Skills](https://skillicons.dev/icons?i=clojure,js,react,vue,angular,nodejs,python,java,cs,docker,git,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=clojure,python,cs,net,js,nodejs,aws,react,vue,angular,docker,git,postgres,mysql)](https://skillicons.dev)
 
 ---
 
