@@ -1,55 +1,122 @@
-# Olá, eu sou Aguinaldo! :dart:
+# Olá, eu sou Aguinaldo 👋
 
-<img src="./aguinaldo-3.jpeg" width="300px" align="right">
+<img src="./aguinaldo-3.jpeg" width="280px" align="right">
 
-Sou **Engenheiro de Software Full-Stack** com mais de 3 anos de experiência em **plataformas financeiras escaláveis**. Tenho expertise em **Clojure/ClojureScript, Kafka e Cassandra**, entregando soluções end-to-end que otimizam investimentos e regras de negócio.  
-Minha formação em **Análise e Desenvolvimento de Sistemas (Estácio)** e o **Bootcamp Full-Stack (Cubos Academy)** me proporcionam uma base sólida para enfrentar desafios complexos no mundo da tecnologia.
-
----
-
-## 💻 O que você encontrará no meu GitHub
-
-- **Projetos Full-Stack:** Features completas em fintechs, APIs RESTful robustas e aplicações web dinâmicas.  
-- **Big Data & Infra:** Integrações com **Kafka** para eventos e **Cassandra** para dados em larga escala.  
-- **Front-end Moderno:** Interfaces responsivas com **ClojureScript, Next.js, React, Vue e Angular**, sempre focando na experiência do usuário.  
-- **Back-end Poderoso:** APIs seguras e eficientes em **Clojure, Node.js e SQL**, com pipelines de CI/CD otimizados.
+💻 Desenvolvedor Full-Stack | Integrações e Automação de Sistemas  
+📍 São Paulo - SP  
 
 ---
 
-## 🚀 Habilidades
+## 🚀 Sobre mim
 
-- **Linguagens e Frameworks:** Clojure, ClojureScript, JavaScript, Next.js, Node.js, SQL, React, Vue, Angular, Python, Java, C#  
-- **Big Data & Infra:** Kafka, Cassandra, Docker, WSL, Git/GitLab CI/CD  
-- **Ferramentas:** VS Code, Postman, Jira, Trello, Swagger, JWT  
-- **Idiomas:** Inglês Técnico
+Sou desenvolvedor Full-Stack com experiência em **backend, integrações e automação de processos**, atuando na construção de soluções que conectam tecnologia a resultados reais de negócio.
 
-[![My Skills](https://skillicons.dev/icons?i=clojure,python,cs,net,js,nodejs,aws,react,vue,angular,docker,git,postgres,mysql)](https://skillicons.dev)
+Tenho trabalhado com **Node.js, Python, React e Next.js**, além de atuar com **integração de sistemas, APIs e automação de CRM (Zoho + SendPulse)**, ajudando empresas a organizarem seus dados, melhorarem seus processos e aumentarem sua eficiência operacional.
+
+Minha base inclui também experiências com **arquitetura distribuída, mensageria (Kafka)** e aplicações escaláveis.
 
 ---
 
-## 🔍 O que me motiva
+## 🎯 O que eu faço melhor
 
-- **Inovação e Criatividade:** Explorar novas tecnologias para criar soluções escaláveis e inteligentes.  
-- **Colaboração e Crescimento:** Trabalho em equipe e troca de conhecimento como motor de evolução.  
-- **Impacto Positivo:** Desenvolver sistemas que realmente fazem diferença em performance e valor para usuários e empresas.  
+- 🔗 **Integração de sistemas e APIs**
+- ⚙️ **Automação de processos e fluxos de dados**
+- 🧠 **Backend robusto e escalável**
+- 📈 **Soluções voltadas a negócio (CRM, leads, conversão)**
+- 🌐 **Aplicações web modernas (React / Next.js)**
+
+---
+
+## 💻 Stack principal
+
+### Backend
+- Node.js (NestJS)
+- Python (FastAPI)
+- Java (Spring Boot - base)
+
+### Frontend
+- React.js
+- Next.js
+- TailwindCSS
+
+### Integrações e Dados
+- APIs REST
+- Webhooks
+- Zoho CRM
+- SendPulse
+- Kafka
+- PostgreSQL, MySQL, MongoDB, Cassandra
+
+### Infra & Ferramentas
+- Docker
+- AWS (Lambda, API Gateway, SQS, SNS)
+- Git / CI-CD
+
+---
+
+## 🔥 Diferencial
+
+👉 Não sou apenas desenvolvedor de código.
+
+Trabalho conectando **tecnologia, processos e negócio**, com foco em:
+
+- automação de vendas
+- integração entre sistemas
+- otimização de fluxo de dados
+- redução de trabalho manual
 
 ---
 
 ## 🌟 Projetos em Destaque
 
-- **Fintech Micro-Exchange** – Features fintech Full-stack 100% em Clojure/ClojureScript – Kafka Streams + Cassandra + Re-frame + Tailwind
-- **Carteira Digital Serverless (AWS)** – Fintech 100% serverless com Lambda, API Gateway, DynamoDB, SNS e SQS. Endpoints de depósito, saque e consulta de saldo, com alertas automáticos via SNS.
-- **Fintech - API de Transações (Python + FastAPI)** – API RESTful de alta performance para depósitos e saques. Desenvolvida com FastAPI, SQLModel e SQLite, com tipagem estática, validação rigorosa de payloads, cálculo automático de saldo e documentação interativa (Swagger UI). Deploy simplificado via Docker.
-- **Banco Digital (Next.js + SQLite)** – App full-stack com depósito, saque, saldo e histórico. Feito com Next.js, TypeScript, TailwindCSS e SQLite, unindo frontend e API em um único projeto.
-- **API Cubos Bank** - Backend – Node.js + Express + PostgreSQL + Body-parser + CORS - API RESTful - Validação de dados + interações complexas entre recursos
-- **Csharp .NET Bank (ASP.NET MVC + C#)** – Mini-fintech construída com ASP.NET Core MVC (.NET 10), C# e TailwindCSS via CDN. Interface moderna com fluxo completo de saldo, depósito e saque, arquitetura MVC organizada com camada de serviços e roteamento otimizado. Usando fundamentos sólidos do ecossistema .NET aplicado ao mundo financeiro.
-
+### 💳 Fintech Micro-Exchange
+Arquitetura distribuída com **Kafka + Cassandra + Clojure/ClojureScript**  
+Sistema orientado a eventos com alta escalabilidade.
 
 ---
 
-🔗 **Vamos nos conectar!** Confira meus projetos, contribuições e colabore comigo em novas ideias.  
+### ⚙️ API de Transações (Python + FastAPI)
+API RESTful de alta performance com:
+- validação robusta
+- tipagem forte
+- documentação automática (Swagger)
+
+---
+
+### 🏦 Banco Digital (Next.js)
+Aplicação full-stack com:
+- depósito, saque e histórico
+- frontend + API integrados
+- foco em performance e UX
+
+---
+
+### 🔗 Integrações CRM + Automação
+Projetos conectando:
+- Zoho CRM
+- SendPulse
+- APIs externas
+
+Com foco em:
+- automação de leads
+- fluxo de vendas
+- integração de dados
+
+---
+
+## 📈 Em evolução
+
+Atualmente aprofundando:
+
+- 🤖 IA aplicada (LLMs e automação)
+- 🧠 Arquitetura de sistemas
+- ⚡ Backend de alta performance
+- 🔗 Integrações cada vez mais robustas
+
+---
+
+## 🤝 Vamos nos conectar
+
+Se você trabalha com tecnologia, produto ou negócio, vamos trocar ideia.
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aguinaldo-borges-dev/)
-
----
-
-
