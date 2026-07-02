@@ -1,122 +1,151 @@
-# Olá, eu sou Aguinaldo 👋
+# Olá, eu sou Aguinaldo Borges 👋
 
-<img src="./aguinaldo-3.jpeg" width="280px" align="right">
+<p align="center">
+  <img src="./aguinaldo-3.jpeg" width="220" style="border-radius:50%">
+</p>
 
-💻 Desenvolvedor Full-Stack | Integrações e Automação de Sistemas  
-📍 São Paulo - SP  
+<h3 align="center">
+Full Stack Software Engineer • React • Next.js • Python • IA Generativa
+</h3>
 
----
-
-## 🚀 Sobre mim
-
-Sou desenvolvedor Full-Stack com experiência em **backend, integrações e automação de processos**, atuando na construção de soluções que conectam tecnologia a resultados reais de negócio.
-
-Tenho trabalhado com **Node.js, Python, React e Next.js**, além de atuar com **integração de sistemas, APIs e automação de CRM (Zoho + SendPulse)**, ajudando empresas a organizarem seus dados, melhorarem seus processos e aumentarem sua eficiência operacional.
-
-Minha base inclui também experiências com **arquitetura distribuída, mensageria (Kafka)** e aplicações escaláveis.
+<p align="center">
+Construindo aplicações inteligentes que unem Engenharia de Software, Inteligência Artificial e Experiência do Usuário.
+</p>
 
 ---
 
-## 🎯 O que eu faço melhor
+# 🚀 Sobre mim
 
-- 🔗 **Integração de sistemas e APIs**
-- ⚙️ **Automação de processos e fluxos de dados**
-- 🧠 **Backend robusto e escalável**
-- 📈 **Soluções voltadas a negócio (CRM, leads, conversão)**
-- 🌐 **Aplicações web modernas (React / Next.js)**
+Sou Desenvolvedor Full Stack apaixonado por transformar problemas reais em produtos digitais.
+
+Minha experiência envolve desenvolvimento de aplicações web modernas, APIs escaláveis, integrações entre sistemas, automação de processos e Inteligência Artificial.
+
+Nos últimos meses comecei a construir o **ecossistema ChatHacker**, uma coleção de aplicações voltadas para IA, análise de dados e produtividade.
 
 ---
 
-## 💻 Stack principal
+# 🧠 Atualmente construindo
 
-### Backend
-- Node.js (NestJS)
-- Python (FastAPI)
-- Java (Spring Boot - base)
+## 📄 ChatHacker Docs
 
-### Frontend
-- React.js
+Consulta inteligente de documentos utilizando IA.
+
+**Stack**
+
+- Next.js 15
+- TypeScript
+- Prisma
+- SQLite
+- Gemini
+
+---
+
+## 💬 ChatHacker Chat
+
+Chat em tempo real utilizando IA.
+
+**Stack**
+
+- Python
+- Flask
+- WebSocket
+- SQLite
+- Gemini
+
+---
+
+## 📊 ChatHacker Insights
+
+Analytics inteligente utilizando IA para explicar dados automaticamente.
+
+**Stack**
+
 - Next.js
-- TailwindCSS
+- FastAPI
+- Pandas
+- DuckDB
+- SQLite
+- Gemini
 
-### Integrações e Dados
-- APIs REST
-- Webhooks
-- Zoho CRM
-- SendPulse
-- Kafka
-- PostgreSQL, MySQL, MongoDB, Cassandra
+---
 
-### Infra & Ferramentas
+# 💻 Tecnologias
+
+### Front-end
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
+
+### Back-end
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
+
+### Dados
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+
+### IA
+
+- Gemini API
+- RAG
+- Prompt Engineering
+- LLM Applications
+
+### DevOps
+
 - Docker
-- AWS (Lambda, API Gateway, SQS, SNS)
-- Git / CI-CD
+- Git
+- GitHub Actions
+- Linux
 
 ---
 
-## 🔥 Diferencial
+# 🌟 Destaques
 
-👉 Não sou apenas desenvolvedor de código.
+✅ Desenvolvimento Full Stack
 
-Trabalho conectando **tecnologia, processos e negócio**, com foco em:
+✅ Arquitetura de APIs
 
-- automação de vendas
-- integração entre sistemas
-- otimização de fluxo de dados
-- redução de trabalho manual
+✅ Inteligência Artificial
 
----
+✅ WebSocket
 
-## 🌟 Projetos em Destaque
+✅ Dashboards
 
-### 💳 Fintech Micro-Exchange
-Arquitetura distribuída com **Kafka + Cassandra + Clojure/ClojureScript**  
-Sistema orientado a eventos com alta escalabilidade.
+✅ Analytics
+
+✅ Integração entre sistemas
 
 ---
 
-### ⚙️ API de Transações (Python + FastAPI)
-API RESTful de alta performance com:
-- validação robusta
-- tipagem forte
-- documentação automática (Swagger)
+# 📈 Atualmente estudando
+
+- IA Generativa
+- Arquitetura de Software
+- Engenharia de Prompt
+- Sistemas Distribuídos
+- FastAPI
+- Next.js
 
 ---
 
-### 🏦 Banco Digital (Next.js)
-Aplicação full-stack com:
-- depósito, saque e histórico
-- frontend + API integrados
-- foco em performance e UX
+# 📫 Contato
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/aguinaldo-borges-dev/
+
+📧
+
+tiaguinaldo2016@gmail.com
 
 ---
 
-### 🔗 Integrações CRM + Automação
-Projetos conectando:
-- Zoho CRM
-- SendPulse
-- APIs externas
-
-Com foco em:
-- automação de leads
-- fluxo de vendas
-- integração de dados
-
----
-
-## 📈 Em evolução
-
-Atualmente aprofundando:
-
-- 🤖 IA aplicada (LLMs e automação)
-- 🧠 Arquitetura de sistemas
-- ⚡ Backend de alta performance
-- 🔗 Integrações cada vez mais robustas
-
----
-
-## 🤝 Vamos nos conectar
-
-Se você trabalha com tecnologia, produto ou negócio, vamos trocar ideia.
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aguinaldo-borges-dev/)
+⭐ Sempre construindo aplicações que unem tecnologia e negócio.
