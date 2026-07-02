@@ -1,7 +1,7 @@
 # Olá, eu sou Aguinaldo Borges 👋
 
 <p align="center">
-  <img src="./2.png" width="220" style="border-radius:50%">
+  <img src="./perfil.png" width="220" style="border-radius:50%">
 </p>
 
 <h3 align="center">
