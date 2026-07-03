@@ -24,9 +24,9 @@ Nos últimos meses comecei a construir o **ecossistema ChatHacker**, uma coleç�
 
 ---
 
-# 🧠 Atualmente construindo
+# 🧠 Atualmente construidos
 
-## 📄 ChatHacker Docs
+## 📄 <a href="https://github.com/AguinaldoBorges/chathacker-docs">ChatHacker Docs</a>
 
 Consulta inteligente de documentos utilizando IA.
 
@@ -40,7 +40,7 @@ Consulta inteligente de documentos utilizando IA.
 
 ---
 
-## 💬 ChatHacker Chat
+## 💬 <a href="https://github.com/AguinaldoBorges/chathacker-chat">ChatHacker Chat</a>
 
 Chat em tempo real utilizando IA.
 
@@ -54,7 +54,7 @@ Chat em tempo real utilizando IA.
 
 ---
 
-## 📊 ChatHacker Insights
+## 📊 <a href="https://github.com/AguinaldoBorges/chathacker-insights">ChatHacker Insights</a>
 
 Analytics inteligente utilizando IA para explicar dados automaticamente.
 
