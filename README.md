@@ -9,7 +9,7 @@ Full Stack Software Engineer • React • Next.js • Python • IA Generativa
 </h3>
 
 <p align="center">
-Construindo aplicações inteligentes que unem Engenharia de Software, Inteligência Artificial e Experiência do Usuário.
+Construindo aplicações inteligentes que unem Engenharia de Software e Experiência do Usuário.
 </p>
 
 ---
@@ -18,7 +18,7 @@ Construindo aplicações inteligentes que unem Engenharia de Software, Inteligê
 
 Sou Desenvolvedor Full Stack apaixonado por transformar problemas reais em produtos digitais.
 
-Minha experiência envolve desenvolvimento de aplicações web modernas, APIs escaláveis, integrações entre sistemas, automação de processos e Inteligência Artificial.
+Minha experiência envolve desenvolvimento de aplicações web modernas, APIs escaláveis, integrações entre sistemas e automação de processos.
 
 Nos últimos meses comecei a construir o **ecossistema ChatHacker**, uma coleção de aplicações voltadas para IA, análise de dados e produtividade.
 
